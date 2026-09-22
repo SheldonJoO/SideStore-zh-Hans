@@ -1,0 +1,56 @@
+/* Settings.strings
+   SideStore - 简体中文 (zh-Hans)
+   汉化：東't-Move
+*/
+
+"XFa-MY-7cV.text" = "关注 SideStore 获取更新";
+"7lu-Yk-87t.text" = "使用 Apple ID 登录";
+"xvY-lN-Toz.text" = "名称";
+"rAc-lQ-B1k.text" = "电子邮件";
+"Sge-cM-Fw9.text" = "类型";
+"434-MW-Den.text" = "开发者";
+"3Il-5a-5Zp.text" = "支持团队";
+"Y4l-PD-ev9.text" = "更换应用图标";
+"EbG-HB-IOn.text" = "后台刷新";
+"PCh-Up-aJJ.text" = "停用空闲超时";
+"c6K-fI-CVr.text" = "允许 Siri 刷新应用…";
+"W95-fD-NAd.text" = "解除应用数量限制";
+"2CC-iw-3bd.text" = "工作原理";
+"hlt-Ch-lbl.text" = "健康检查";
+"vH6-7i-tCE.text" = "查看错误日志";
+"stg-Ex-lbl.text" = "存储浏览器";
+"j4e-Mz-DlL.text" = "清除数据缓存…";
+"hRA-OK-Vjw.text" = "开发者";
+"oqY-wY-1Vf.text" = "界面设计";
+"fGU-Fp-XgM.text" = "素材设计";
+"D6b-cd-pVK.text" = "许可协议";
+"1B5-BJ-Rkb.text" = "启用测试版更新";
+"nSh-L8-ca0.text" = "测试版更新通道";
+"kYQ-zz-vjQ.title" = "稳定版";
+"pMI-Aj-nQF.text" = "发送反馈";
+"sni-07-q0M.text" = "查看刷新尝试记录";
+"ysS-9s-dXm.text" = "配对文件管理";
+"eds-Dj-36y.text" = "Anisette 服务器";
+"iie-Nj-lki.text" = "连接配置";
+"ntw-Dsc-lbl.text" = "网络发现（mDNS）";
+"dev-Svc-lbl.text" = "开发者门户服务";
+"prf-Mg-lbl.text" = "描述文件管理";
+"crt-Mg-lbl.text" = "证书管理";
+"bkp-Rst-lbl.text" = "备份与恢复";
+"usr-Cst-lbl.text" = "用户自定义";
+"Fq5-2u-Lge.text" = "提示自定义应用扩展";
+"jFh-36-AP2.text" = "开发者选项";
+"exp-feat-label.text" = "实验性功能";
+"Ddg-UQ-KJ8.title" = "设置";
+"LP8-gK-WC2.title" = "设置";
+"SWb-Of-t97.text" = "成功";
+"4MX-Qv-H8V.text" = "日期";
+"7L1-AA-2yo.text" = "无法连接到 SideStore。";
+"V4e-K5-U8O.title" = "刷新尝试记录";
+"JcT-wX-zay.title" = "软件许可";
+"uUV-1f-xEq.title" = "支持我们";
+"Na7-uj-XYZ.text" = "成功";
+"SGf-pP-RL0.text" = "日期";
+"R5a-wv-xHd.text" = "错误码";
+"1df-ri-hKN.text" = "错误描述";
+"a1p-3W-bSi.title" = "错误日志";

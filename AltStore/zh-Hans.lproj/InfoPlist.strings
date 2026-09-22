@@ -1,0 +1,6 @@
+/* InfoPlist.strings
+   SideStore - 简体中文 (zh-Hans)
+   汉化：東't-Move
+*/
+
+"NSLocalNetworkUsageDescription" = "SideStore 可使用本地网络访问权限发现你网络中的 Bonjour（mDNS）服务。此权限并非核心功能所必需。";

@@ -1,0 +1,18 @@
+/* Localizable.strings
+   SideStore AltWidget - 简体中文 (zh-Hans)
+   汉化：東't-Move
+*/
+
+"%lld days" = "%lld 天";
+"1 day" = "1 天";
+"7+" = "7+";
+"DAYS" = "天";
+"Expired" = "已过期";
+"Expires in\n" = "剩余有效期\n";
+"Expires in %lld " = "剩余有效期 %lld ";
+"Launch app to update widget" = "启动应用以更新小组件";
+"Open SideStore" = "打开 SideStore";
+"Requires %@ or later" = "需要 %@ 或更高版本";
+"Unsupported iOS" = "iOS 版本不受支持";
+"day" = "天";
+"days" = "天";
