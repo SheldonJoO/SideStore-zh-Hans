@@ -1,11 +1,8 @@
-/* Sources.strings
-   SideStore - 简体中文 (zh-Hans)
-   汉化：東't-Move
-*/
+/* Sources.strings — SideStore 简体中文 (zh-Hans) 汉化：東't-Move */
 
-"xPv-dc-X4v.title" = "来源";
-"rUb-ON-AON.title" = "全部应用";
 "FGB-cd-Vkd.title" = "全部资讯";
-"Wm7-1O-FkD.title" = "来源";
 "Noh-fc-wch.title" = "来源";
+"Wm7-1O-FkD.title" = "来源";
+"rUb-ON-AON.title" = "全部应用";
 "v46-dC-g7e.title" = "添加来源";
+"xPv-dc-X4v.title" = "来源";

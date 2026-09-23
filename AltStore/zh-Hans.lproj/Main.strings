@@ -1,24 +1,29 @@
-/* Main.strings
-   SideStore - 简体中文 (zh-Hans)
-   汉化：東't-Move
-*/
+/* Main.strings — SideStore 简体中文 (zh-Hans) 汉化：東't-Move */
 
-"pUx-6k-rtr.title" = "浏览";
-"grk-xM-YWA.normalTitle" = "免费";
-"BsL-O2-UjD.text" = "掌上的经典游戏";
-"obM-TM-y2E.text" = "最新动态";
-"dj7-G8-GFv.text" = "权限";
-"sWo-Y8-aF6.title" = "应用";
-"OZm-Le-7oJ.title" = "设置";
-"ZxL-Ws-lJO.title" = "资讯";
-"Uwh-Bg-Ymq.title" = "浏览";
+"3Co-uv-Fhb.title" = "App ID";
 "4gT-9u-k7y.title" = "我的应用";
-"z04-yg-x1t.text" = "没有可用更新";
+"7E0-TV-G4l.text" = "版本 4.4.2";
+"83Z-Ih-nOW.text" = "App ID 说明";
+"BsL-O2-UjD.text" = "掌上经典游戏";
+"DTD-1Y-76c.text" = "Delta";
+"DgM-bD-bBY.text" = "50.4 MB";
 "LLv-8I-6Of.text" = "5/10 个 App ID";
 "NHb-0F-cHZ.normalTitle" = "查看 App ID";
-"zLJ-Cg-ijh.title" = "我的应用";
-"y1A-Nm-mw7.title" = "App ID";
+"OZm-Le-7oJ.title" = "设置";
+"Pyt-8D-BZA.text" = "你好，我";
+"Q7y-bi-ncT.title" = "Item";
+"Uwh-Bg-Ymq.title" = "浏览";
+"Who-nd-jyt.configuration.title" = "...";
+"Who-nd-jyt.normalTitle" = "Button";
 "Zna-7n-kBz.text" = "10 个 App ID";
-"3Co-uv-Fhb.title" = "App ID";
+"ZxL-Ws-lJO.title" = "资讯";
+"dj7-G8-GFv.text" = "权限";
 "fVN-ed-uO1.title" = "资讯";
-"Q7y-bi-ncT.title" = "项目";
+"grk-xM-YWA.normalTitle" = "免费";
+"obM-TM-y2E.text" = "最新动态";
+"pUx-6k-rtr.title" = "浏览";
+"sWo-Y8-aF6.title" = "应用";
+"wGD-mS-8fO.text" = "2 周前";
+"y1A-Nm-mw7.title" = "App ID";
+"z04-yg-x1t.text" = "没有可用更新";
+"zLJ-Cg-ijh.title" = "我的应用";

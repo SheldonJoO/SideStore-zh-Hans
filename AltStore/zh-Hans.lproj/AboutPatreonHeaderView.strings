@@ -1,8 +1,7 @@
-/* AboutPatreonHeaderView.strings
-   SideStore - 简体中文 (zh-Hans)
-   汉化：東't-Move
-*/
+/* AboutPatreonHeaderView.strings — SideStore 简体中文 (zh-Hans) 汉化：東't-Move */
 
-"yEi-L6-kQ8.normalTitle" = "成为赞助者！";
-"hov-Ce-LaM.normalTitle" = "在 Twitter 上关注我们！";
+"DTd-Yu-HXr.text" = "SideTeam";
+"FeG-e5-LJl.text" = "感谢您使用 SideStore！\\n        \\n订阅 Patreon 支持我们，让我们能持续为您开发 SideStore。\\n    \\n关注我们的社交媒体，可以第一时间获取更新，也让更多人了解侧载！\\n        \\n-SideTeam";
 "VdY-7Q-amF.normalTitle" = "在 Instagram 上关注我们！";
+"hov-Ce-LaM.normalTitle" = "在 Twitter 上关注我们！";
+"yEi-L6-kQ8.normalTitle" = "成为赞助者！";

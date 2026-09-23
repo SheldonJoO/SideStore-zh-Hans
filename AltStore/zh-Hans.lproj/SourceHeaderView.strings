@@ -1,7 +1,8 @@
-/* SourceHeaderView.strings
-   SideStore - 简体中文 (zh-Hans)
-   汉化：東't-Move
-*/
+/* SourceHeaderView.strings — SideStore 简体中文 (zh-Hans) 汉化：東't-Move */
 
+"1lg-Ki-MOK.configuration.title" = " ";
+"1lg-Ki-MOK.normalTitle" = " ";
 "FsG-Wm-6xP.text" = "来源名称";
 "IUL-qI-QAg.text" = "副标题";
+"cDF-t8-8Ri.configuration.title" = "https://rileytestut.com";
+"cDF-t8-8Ri.normalTitle" = "https://rileytestut.com";

@@ -18,8 +18,8 @@
 
 ## 汉化覆盖范围
 
-- 主应用界面文案：**1185 条**（`Localizable.strings` 实际写入 1160 条，重复的 %@ 占位符、纯数值等未重复写入）
-- 界面构建器（storyboard / xib）文案：**111 条**，覆盖 `Main`、`Settings`、`Sources`、`Authentication`、`AppBannerView`、`SourceHeaderView`、`SettingsHeaderFooterView`、`AboutPatreonHeaderView`、`InstalledAppsCollectionHeaderView`、`UpdateCollectionViewCell`
+- 主应用界面文案：**1364 条**（`Localizable.strings`，含本次补全的 197 条缺失文案：118 条 SwiftUI 字面量 + 79 条 NSLocalizedString，全部按 IPA 实际构建提交 `6032424a` 提取对齐）
+- 界面构建器（storyboard / xib）文案：覆盖 `Main`、`Settings`、`Sources`、`Authentication` 四个 storyboard 与 `AppBannerView`、`SourceHeaderView`、`SettingsHeaderFooterView`、`AboutPatreonHeaderView`、`InstalledAppsCollectionHeaderView`、`UpdateCollectionViewCell`、`NewsCollectionViewCell` 七个 xib（共约 150 条界面文案）。**已用 `ibtool` 编译为 `*.storyboardc` / `*.nib` 并随 IPA 发布** —— 早期版本仅写入未编译的 `.strings`，运行时不生效，本次已修复。
 - 系统授权说明、应用 purpose string：`InfoPlist.strings`
 - 桌面组件文案：**13 条**
 
@@ -57,11 +57,10 @@ open AltStore.xcodeproj
 
 ## 已知限制
 
-- 部分**运行时动态拼接**的文案仍需英文：源码中有少量 `NSLocalizedString("\\(变量) …")` 写法，运行时 key 是拼接后的结果，静态 .strings 无法命中。
-- 少量富 ternary 插值（如 `Text("Tap toggle to view \\(flag ? "bundle" : "resigned") profile")`）未收录。
-- 专有名称（如 SideStore、LocalDevVPN、Anisette、patreon 昵称等）与 IB 中的示例占位文本保持原样。
+- **资讯（News）流内容来自远程源**：`News` 标签页的文章标题 / 摘要由来源服务器（默认 `https://sidestore.io/default-sources`，及各个「来源」自行下发的 RSS）提供，App 内无法汉化，始终为来源语言。这是上游设计，并非汉化遗漏 —— 切换系统语言不会改变资讯内容。
+- 专有名称（如 SideStore、LocalDevVPN、Anisette、MACDIRTYCOW、SideJITServer、patreon 昵称等）、IB 中的示例占位文本，以及开源软件许可正文保持原样（符合行业惯例）。
+- 少数**运行时动态拼接且无法还原为固定 localization key** 的极个别文案仍可能显示英文，不影响功能。
 - 随包内置、上游预编译的 `SideBackup.ipa` 二进制本身未重编译，其内部界面仍为英文（源码已提供中文资源，自行编译时生效）。
-- 汉化文案基于开发分支提取，与官方 Release 二进制存在少量版本漂移，未命中的条目会回退英文显示，不影响功能。
 
 ## 署名与许可
 

@@ -1,7 +1,5 @@
-/* SettingsHeaderFooterView.strings
-   SideStore - 简体中文 (zh-Hans)
-   汉化：東't-Move
-*/
+/* SettingsHeaderFooterView.strings — SideStore 简体中文 (zh-Hans) 汉化：東't-Move */
 
-"rLj-Ff-ZTt.text" = "账户";
+"eet-Hi-RU4.text" = "Label";
 "meg-d6-dbz.normalTitle" = "退出登录";
+"rLj-Ff-ZTt.text" = "账户";
